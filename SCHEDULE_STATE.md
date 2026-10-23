@@ -1,4 +1,4 @@
 # 续产状态（完工优先制）
-current=xiyouji/001
-last_publish=2026-10-23 11:30 (shuihu/002)
-published_on_2026-10-23=3
+current=honglou/001（2026-10-23 轮：镜1 重生成验收入库；镜4/6/7 牌匾门判废后场景词去专名，4/6/7/8/9 下轮重生成；镜11/13 下下轮）
+last_publish=2026-10-23 13:10 (xiyouji/001)
+published_on_2026-10-23=4
