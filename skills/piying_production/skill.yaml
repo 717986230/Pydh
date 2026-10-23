@@ -1,0 +1,5 @@
+name: "piying_production"
+title: "皮影短剧生产与发布"
+description: "把公版名著做成平面老式上色皮影短视频并发布到抖音：分镜、提示词、生成、配音、合成、验片、发布、复盘的全套打法，含三硬规与可复用提示词总库。"
+category: "Work and knowledge"
+include_in_prompt: true
