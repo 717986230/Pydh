@@ -22,7 +22,8 @@
 - 范例（金标准，第2回第14镜）：
 「场景：史家村庄前空地，白日，庄门与栅栏在后景，尘土微扬。人物：史进居右，红巾束发，赤膊，九条青龙盘绕上身，持齐眉棍；陈达居左，红脸，褐色山贼短打，骑一匹枣红马，挺长枪。动作链：陈达催马挺枪直刺史进胸口 → 史进侧身闪过枪尖，棍头顺势压住枪杆往下沉 → 陈达双手脱枪、身子一歪从马鞍滑落，史进棍尖停在其肩前收势。镜头：全景，两人一马全身入画。Traditional Chinese shadow puppetry with COLORED translucent dyed-leather puppets (deep red, ochre, amber yellow, green), coarse simple folk shapes, rough hand-cut edges, minimal fine detail, plain pale paper screen background, visible bamboo control rods, side view, smooth continuous jointed puppet motion, vertical 9:16, no text, no watermark」
 
-## 五、对白版额外要求
+## 五、唱念版要求（2026-10-23 改版）
+【以总库「形式定版：唱念版」为准：主讲一人讲全场、不逐角配音；本节旧对白要求与之冲突者（如逐角开口配音）作废。】
 说话者面朝听者、下颌随说话开合；听者有微反应（点头、后仰、握拳）；双人同框为主，避免背对镜头说话；台词长的镜头给说话者留中景，方便字幕与口型观感。
 
 ## 六、负面清单（每镜默念检查）
