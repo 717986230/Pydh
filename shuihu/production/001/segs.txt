@@ -1,0 +1,6 @@
+file '/home/hatch/workspace/douyin/shuihu/production/001/seg1.mp4'
+file '/home/hatch/workspace/douyin/shuihu/production/001/seg2.mp4'
+file '/home/hatch/workspace/douyin/shuihu/production/001/seg3.mp4'
+file '/home/hatch/workspace/douyin/shuihu/production/001/seg4.mp4'
+file '/home/hatch/workspace/douyin/shuihu/production/001/seg5.mp4'
+file '/home/hatch/workspace/douyin/shuihu/production/001/seg6.mp4'

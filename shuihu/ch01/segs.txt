@@ -1,0 +1,4 @@
+file '/home/hatch/workspace/douyin/shuihu/ch01/seg1.mp4'
+file '/home/hatch/workspace/douyin/shuihu/ch01/seg2.mp4'
+file '/home/hatch/workspace/douyin/shuihu/ch01/seg3.mp4'
+file '/home/hatch/workspace/douyin/shuihu/ch01/seg4.mp4'
