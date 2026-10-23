@@ -1,0 +1,21 @@
+# 第二回 · 镜头清单（提示词未变不重生成）
+- shot1 ✅ 已生成（道众送洪太尉下山，旁白版标准提示词，上色后缀）
+- shot2 ✅ 已生成（宝座皇帝更替，时光流转）
+- shot3 ✅ 已生成（高俅市井颠球）
+- shot4 ✅ 已生成（高俅被逐出城，落魄远去）
+- shot5 ✅ 已生成（辗转三家投奔）
+- shot6 ✅ 已生成（王府花园与端王踢球）
+- shot7 ✅ 已生成（2026-10-23）：
+场景：金殿宝座：皇宫大金殿内，清晨，丹墀之上宝座居中，龙柱华表两侧，殿门外日光斜照入殿，幕布光影庄严。人物：端王（宋徽宗），黄袍青年王爷，端坐宝座之上，居中后景；高俅，瘦长脸市井青年，初为灰绿短打泼皮相，居左前景，昂首挺胸，手中捧起暗红太尉官袍，两名侍从在旁。动作链：新皇登基大典毕 → 高俅当场脱下灰绿短打 → 换上暗红太尉官袍 → 整衣冠，昂首阔步登上丹墀高台，向宝座方向长揖收势。镜头：全景，人物全身入画。Traditional Chinese shadow puppetry with COLORED translucent dyed-leather puppets (deep red, ochre, amber yellow, green), coarse simple folk shapes, rough hand-cut edges, minimal fine detail, plain pale paper screen background, visible bamboo control rods, side view, smooth continuous jointed puppet motion, vertical 9:16, no text, no watermark
+- shot8 ✅ 已生成（2026-10-23）：
+场景：太尉府大堂：高堂梁柱，案几居中，两侧甲士林立，清晨光线从堂外透入。人物：高俅居中高坐案几之后，身穿暗红太尉官袍，瘦长脸，目光冷峻；堂下众教头分立两侧，皆青衣教头相；王进立于堂下右侧，中年教头，青色劲装，背枪携棒，低首。动作链：高俅冷眼扫过堂下 → 目光停在王进身上，眉头皱起 → 猛地一拍案几，身体前倾怒指王进 → 王进后退半步，垂首不语，众教头侧目。镜头：中景，高俅与王进同框。Traditional Chinese shadow puppetry with COLORED translucent dyed-leather puppets (deep red, ochre, amber yellow, green), coarse simple folk shapes, rough hand-cut edges, minimal fine detail, plain pale paper screen background, visible bamboo control rods, side view, smooth continuous jointed puppet motion, vertical 9:16, no text, no watermark
+- shot9 ✅ 已生成（2026-10-23）：
+场景：月夜官道：夜晚，月光清冷洒在官道上，官道蜿蜒，东京城门剪影居后景，远山孤树，幕布月影斜照。人物：王进居中，中年教头，青色劲装，背枪携棒，背负包裹；其母居右，灰蓝衣老妇，拄杖，由王进搀扶；一辆小车在旁。动作链：王进扶老母上车 → 回望一眼东京城门 → 拉起车辕，迈步前行 → 母子车影渐渐远去，消失在月夜官道尽头。镜头：全景，两人一车全身入画。Traditional Chinese shadow puppetry with COLORED translucent dyed-leather puppets (deep red, ochre, amber yellow, green), coarse simple folk shapes, rough hand-cut edges, minimal fine detail, plain pale paper screen background, visible bamboo control rods, side view, smooth continuous jointed puppet motion, vertical 9:16, no text, no watermark
+- shot10 ✅ 已生成（2026-10-23）：
+场景：史家村庄院：大宅院落，练武场，兵器架，枣树一株；深夜，雨幕如注，门灯昏黄，幕布雨影。人物：王进居左，中年教头，青色劲装湿透，背枪携棒，拱手作揖；其母居中，灰蓝衣老妇，拄杖；史太公自宅门内出迎，居右，白须老者，褐袍，撑伞。动作链：暴雨中王进扶母立于庄门前叩门 → 庄门打开，史太公撑伞快步出迎，拱手还礼 → 王进深深一揖 → 史太公引二人入庄，庄门关闭。镜头：全景，四人全身入画。Traditional Chinese shadow puppetry with COLORED translucent dyed-leather puppets (deep red, ochre, amber yellow, green), coarse simple folk shapes, rough hand-cut edges, minimal fine detail, plain pale paper screen background, visible bamboo control rods, side view, smooth continuous jointed puppet motion, vertical 9:16, no text, no watermark
+- shot11 ✅ 已生成（2026-10-23）：
+场景：史家村庄院：大宅院落，练武场，兵器架，枣树一株；白日，日光洒满院落。人物：史进居中，青年，红巾束发，赤膊，身上刺九条青龙盘绕，持齐眉棍；王进居左旁观，中年教头，青色劲装，驻足观看，微微点头。动作链：史进赤膊舞起齐眉棍 → 棍花翻飞，满院生风，身形腾挪 → 收势定住，长棍横于身前，九条青龙纹身在日光下清晰可见 → 王进上前一步，抚掌赞叹。镜头：全景，两人全身入画。Traditional Chinese shadow puppetry with COLORED translucent dyed-leather puppets (deep red, ochre, amber yellow, green), coarse simple folk shapes, rough hand-cut edges, minimal fine detail, plain pale paper screen background, visible bamboo control rods, side view, smooth continuous jointed puppet motion, vertical 9:16, no text, no watermark
+- shot12 ✅ 已生成（2026-10-23，授艺一招一镜）：
+场景：史家村庄院：大宅院落，练武场，兵器架，枣树一株；白日。人物：王进居左，中年教头，青色劲装，持长枪；史进居右，青年，红巾束发，赤膊，九条青龙盘绕上身，持齐眉棍，面朝左侧的王进。动作链：史进挺棍当头劈下 → 王进侧身让过棍头，枪杆一格一挑，卸飞史进长棍 → 长棍落地，史进一愣 → 随即推金山倒玉柱，纳头便拜 → 王进伸手扶起，点头微笑收势。镜头：全景，两人全身入画。Traditional Chinese shadow puppetry with COLORED translucent dyed-leather puppets (deep red, ochre, amber yellow, green), coarse simple folk shapes, rough hand-cut edges, minimal fine detail, plain pale paper screen background, visible bamboo control rods, side view, smooth continuous jointed puppet motion, vertical 9:16, no text, no watermark
+- shot13 待生成：四季苦练+王进辞别
+- shot14 待生成：史进战陈达（金标准提示词见 PROMPT_GUIDE）

@@ -1,5 +1,12 @@
 # 第二回 王教头私走延安府，九纹龙大闹史家村（上色版，14镜）
 
+## 本集场景清单（同地点跨镜复用原词）
+- 史家村庄院：大宅院落，练武场，兵器架，枣树一株（场景库原词；夜雨镜加雨幕门灯，白日镜加日光）
+- 太尉府大堂：高堂梁柱，案几居中，两侧甲士林立（场景库原词）
+- 金殿宝座：皇宫大金殿内，丹墀之上宝座居中，龙柱华表两侧，殿门日光斜照（第2回新增，已登记场景库）
+- 月夜官道：夜晚月光清冷，官道蜿蜒，东京城门剪影居后景，远山孤树（第2回新增，已登记场景库）
+- 东京街市：汴梁街市，两侧店铺幌子，人流如织，日光（场景库原词，第3镜已用）
+
 新出场人物锁定（见 characters.md）：高俅、王进母子、史进（九条青龙）、史太公、端王、陈达/朱武/杨春。
 上色画风后缀（每镜必带）：Traditional Chinese shadow puppetry with COLORED translucent dyed-leather puppets (deep red, ochre, amber yellow, green), coarse simple folk shapes, rough hand-cut edges, minimal fine detail, plain pale paper screen background, visible bamboo control rods, side view, smooth continuous jointed puppet motion, vertical 9:16, no text, no watermark
 
